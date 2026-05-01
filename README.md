@@ -75,3 +75,4 @@
 ## 声明
 
 本文档基于 Games Workshop 旗下 Warhammer 40,000 和 Warhammer Fantasy 的公开设定素材整理重述，纯属二次创作，非官方出版物。所有权利归 Games Workshop 所有。
+
