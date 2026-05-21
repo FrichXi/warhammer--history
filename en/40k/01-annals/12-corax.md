@@ -1,0 +1,83 @@
+# 12 · Corvus Corax
+
+## Overview
+
+The Primarch of the XIX Legion, gene-father of the Raven Guard. Of all the Primarchs, he was the foremost master of concealment—not hiding, but melting into shadow itself. He crawled out of slave mines and used shadow to overthrow tyranny. During the Great Crusade, he replaced head-on charges with guerrilla infiltration, making enemies lose their wars before they ever saw their enemy. On the scorched earth of Isstvan V, he watched his Legion all but annihilated and escaped alone. After the war, he used the Emperor's original gene-template to frantically rebuild his Legion, only for the Alpha Legion to infiltrate and sabotage the project, forcing him to kill the "children" he had created with his own hands. Finally, he transformed himself into a true shadow, entering the Eye of Terror alone, where he still hunts the traitor Primarchs in the Warp to this day. Corvus Corax is a man who fought shadow with shadow—and when he turned around, he had become shadow himself.
+
+## Origin
+
+Corax landed on Lycaeus, a moon dominated by mining guilds. Lycaeus's surface was nothing but mining zones, smelting furnaces, and forced-labour camps; its sky was stained dark grey by chimneys that never slept. The rulers of this moon were techno-barbarians—armed guilds wielding advanced extraction technology, who enslaved the planet's civilian population, treating humans as disposable resources to be fed into the mine shafts. Corax was taken in by the mines after his arrival and raised alongside other slave children. His childhood had no name, only a number; no bed, only a corner in the tunnels; no tomorrow, only today's ore quota that had to be met.
+
+A Primarch's physiology does not stagnate in such an environment—it is merely pressed to its limits. Down in the mines, Corax learned to observe: using darkness as eyes, silence as ears. He saw more clearly than others, walked more lightly, knew where every ventilation pipe led, knew the patrol rhythm of every overseer. This habit later became the core tactic of the Raven Guard, but at the time, it was simply one person's instinct to survive.
+
+Upon reaching adulthood, Corax launched an uprising. He did not stand in a plaza and raise his fist—he moved at night. One by one, overseers vanished into the depths of the mines. One by one, guard towers went dark before dawn. The slaves began to notice that their oppressors were growing paranoid, suspicious, afraid to walk alone in the dark. Fear spread backwards from the other end of the chains, and by the time Corax finally walked out into daylight, the guilds' fortresses had already crumbled from within. He renamed his home world Deliverance—not because he had freed himself, but because he had let people who had spent their entire lives knowing nothing but mining see the sky for the first time.
+
+When the Emperor descended upon Deliverance, Corax did not kneel. He simply stood before the very mine shaft he had once blasted open and crawled out of, looked the Emperor in the eye, and asked one question: "Why did you take so long?" The Emperor did not answer. Corax eventually followed him, but from day one, he was no blind follower.
+
+## Deeds
+
+### The Great Crusade: The Legion No One Saw
+
+The XIX Legion, the Raven Guard, waged war during the Great Crusade in a manner unlike any other Legion. The Ultramarines went everywhere rebuilding administrative systems. The Imperial Fists turned every world into a bunker. The Raven Guard—you could finish a war without ever knowing they had come.
+
+Corax's tactical doctrine boiled down to one idea: make the enemy fear you first, collapse second, and only then lay eyes upon you. Raven Guard warriors wore matte-black armour, painted over every reflective insignia, removed every piece of equipment that made noise. They did not form ranks on open plains, did not beat drums before fortresses. They infiltrated at dusk, decapitated at midnight, vanished before sunrise. The enemy command structure would discover at dawn that every officer was dead in their beds, communication towers had been silently demolished, and the locks on the ammunition depots had been changed. An entire Legion could dismantle a planet's defence grid without spilling a single drop of blood. This was Corax's gift to the Great Crusade.
+
+But this method came with a cost. Other Primarchs looked down on him. Rogal Dorn considered the Raven Guard "not waging war, but stealing war." Perturabo thought them honourless. Even Horus said Corax was "too quiet, no fun." Corax did not care. The respect he earned during the Great Crusade never came from his brothers' banquets—it came from his battlefield record. The Raven Guard were sent to execute missions that could not be written into the battle reports: assassinating the leader of an entire xenos species before reinforcements could arrive, pre-deploying demolition lines inside a besieged city sufficient to level the whole thing, then withdrawing to the next system. They never made headlines, but on the strategium sand-tables, the Raven Guard's markers were always in the most dangerous, most intractable, least-volunteered-for places.
+
+Throughout this period, Corax maintained a carefully calibrated distance from the Emperor. He was loyal not out of any filial love—he had survived on his own since childhood and had little need for a father. He was loyal because the Emperor had unified humanity, because the Imperium was a vast improvement over the slave guilds of Lycaeus. He chose to be loyal to the cause, not to the man.
+
+### Isstvan V: Crawling Out of the Dead Earth
+
+During the Horus Heresy, Corax was dispatched to Isstvan V. He led the XIX Legion alongside Ferrus Manus of the Iron Hands and Vulkan of the Salamanders in a planetary landing. Their objective: to suppress the already-rebelled Horus's Legion. It was the loyalists' first large-scale joint expedition—seven Legions were said to converge in a pincer movement against the traitors, four assaulting from the front, three reinforcing from the flank.
+
+The reinforcement Legions turned around and opened fire on their own side's backs.
+
+The Isstvan V Dropsite Massacre was the most atrocious betrayal in the history of galactic human warfare. The Emperor's Children, the Iron Warriors, the Night Lords, the Alpha Legion—these Legions, all supposed to be reinforcements, launched a coordinated full-scale assault on the loyalists at the same moment. Ferrus Manus was killed on the spot, cut down by Fulgrim's own hand. Vulkan was captured and taken away by Konrad Curze. Corax, nearly alone, carved a path through scorched earth and bombardment. He fought and retreated with the remnants of the Raven Guard over an unknown number of days. In the end, the number who made it alive onto an evacuation ship was less than five percent of the Legion.
+
+Corax escaped—but he left his entire Legion on that black sand. The greatest failure of a Primarch is not losing a battle, but walking out alive from a battlefield his warriors could not walk out of. From that moment on, the second half of Corax's life was pinned beneath the gravity of Isstvan V, never to stand straight again.
+
+### The Raptor Project: The Abyss of Genes
+
+After escaping back to Terra, Corax made a decision—one that no other Primarch among all twenty-one dared to make. He petitioned the Emperor to open the deepest vaults of the gene-laboratories and retrieve the original Primarch genetic template materials reserved for the Primarchs and the Space Marines. He was going to rebuild a Legion from scratch. Not through slow expansion, not by waiting for new recruits—by accelerating directly from the genetic level, mass-producing new Space Marines in an extremely compressed timeframe. The Emperor agreed.
+
+The project was named the Raptor Project. In the gene-laboratories beneath Terra, Corax worked day and night without rest. He was no scientist by training, but his gene-memory—the creation-code inscribed within a Primarch's body, inherited from the Emperor himself—was activated in the presence of these primordial materials. He began to understand where he had come from, and how to use the same raw materials to create more of himself. Batch after batch of improved gene-seed was implanted into new recruits. They grew at dozens of times the speed of normal Space Marines; their muscles were denser, their reactions quicker; some even began manifesting traits unique to Corax himself: the instinct to move soundlessly through shadow, a kind of near-invisible psychic refraction.
+
+But Corax did not know that within his laboratory, agents of the Alpha Legion had been planted.
+
+The Alpha Legion's infiltration techniques were the most exquisite in the galaxy. They did not blow up the laboratory. They did not assassinate Corax. They injected a minuscule, undetectable gene-virus into the Raptor Project's gene-sample repository. At first, no one noticed anything unusual. The first generation of enhanced warriors was produced quickly and looked perfect. But when these warriors were implanted with second-stage enhancement gene-seed, the virus inside them was activated.
+
+The new warriors began to mutate. Muscles swelled uncontrollably, tore through bone, and regenerated from the ruptures. Skin sprouted scales and feathers. Facial features shifted out of alignment. The regions of the brain governing reason and language were suppressed by animal instinct. They were no longer Space Marines. They were no longer human. They were something genetically twisted beyond recognition, wandering in the rift between human form and some abyssal creature. They attacked everything: enemies, comrades, walls, themselves. The laboratory became a slaughterhouse.
+
+Corax killed them with his own hands. He did not know how many. He knew these monsters carried his gene-blood; in some sense, they were his sons. But sons were not supposed to be like this. One by one, he terminated every warrior he had created, locked the laboratory door, and walked out.
+
+The Raptor Project had failed. Corax not only failed to rebuild his Legion—in that laboratory, he lost the last shred of trust he had in the future. The Alpha Legion had not killed him. They had killed something far more important: his capacity to begin again.
+
+### The Ravenspire: The Cage of the Self
+
+After the Horus Heresy ended, Corax appeared at no victory celebrations, no rebuilding summits. In the years when Roboute Guilliman reformed the Legions, split them into Chapters, and restructured the Imperium's administrative apparatus, Corax was absent. He returned to Deliverance and sealed himself inside the Ravenspire—a tower built directly above the very cave where he had once crawled out of the mines. He received no visitors. He signed no decrees. He read no battle reports. The remnants of his Legion were kept at minimal operational capacity by subordinate commanders, while their Primarch sat at the top of the tower, facing the direction of a dying sun, doing nothing.
+
+It is said that in those years, Corax never spoke a single complete sentence. Not out of rage—rage requires energy. He did not even have the energy for rage. A man who had never despaired in the mines was, in this moment, hollowed out completely. The guilt of Isstvan V was already heavy enough; the failure of the Raptor Project was the final hammer-blow that crushed his ribs. He had lost two wars: one out in the galaxy, another inside his own genes. And he did not know why he should keep living.
+
+## Fate & Present Status
+
+One day, at last, Corax walked out of the Ravenspire. He told no one where he was going. He simply boarded a single-man strike cruiser, aimed its course at the Eye of Terror—the abyssal wound where the Warp and realspace overlap—and flew in.
+
+Ten thousand years have passed since then.
+
+Corax hunts the traitor Primarchs within the Warp. He brings no army, maintains no command post, files no battle reports. He exists in a form impossible in realspace—within the Warp, his Primarch essence is directly manifested by psychic force. He no longer needs to "hide," because he is the shadow itself. He can dissolve into any darkness, track his enemies by the scent of their fear, move through the domains of Chaos like a plague that works only upon traitors.
+
+His primary quarry is Lorgar Aurelian. The reason is simple: in Corax's view, Lorgar is the root of the entire Horus Heresy. Without Lorgar's preaching and scheming, Horus might still be Warmaster; the war might not have happened; Ferrus might still be alive; his Legion would not have been buried on Isstvan V. For ten thousand years, Corax has pursued the trail of the Word Bearers within the Eye of Terror, relentlessly, never loosening his grip. The latest legends tell that Corax has manifested at Sicarus, Lorgar's daemon world. He appeared as a form of pure psychic shadow, utterly beyond the corporeal limits of a Primarch's body, and attacked Lorgar's fortress directly. Lorgar himself was forced to lock himself in the deepest sanctum to hide from this erstwhile brother. No one knows when this hunt will end. Perhaps it never will. Corax has infinite patience—he learned it in the mines.
+
+## Verdict
+
+Among all the Primarchs, Corax is the hardest to categorise with any simple label. He was not the most glorious warrior—Ferrus and Sanguinius far outshone him. He was not the greatest commander—Horus and Guilliman need no debate on that score. He was not even the most tragic victim—Angron and Magnus suffered fates that were genuinely more brutal. But Corax possessed something no other Primarch had: he was the only one who spent his entire life at war with himself.
+
+He used shadow to fight oppressors and successfully overthrew the first tyranny he faced. Then he discovered that the Emperor—the man who destroyed tyranny—was running the Imperium through tyrannical means. He swallowed this contradiction and kept fighting. During the Great Crusade, he stood on the side of light but used the methods of darkness: infiltration, assassination, fear. He told himself that means did not matter; only ends did. But he could not fool himself for long—the shape of your tools will eventually shape you.
+
+Isstvan V let him experience firsthand what it means for darkness to stand beneath the sun. He trusted those reinforcement Legions, and then those Legions aimed their guns at the back of his head. He had spent a lifetime using infiltration tactics, and in the end, he was infiltrated down to the deepest level of his own genes—the strategy the Alpha Legion used in the Raptor Project was, in essence, no different from the strategy Corax himself had used against his enemies during the Great Crusade. He simply met an opponent better at hiding than he was. A man who conquered the world with shadow was destroyed from within by another shadow.
+
+Corax's final response was to reduce all of this to a single prey: Lorgar. He has chased Lorgar through the Eye of Terror for ten thousand years—not because of rage. Rage cannot last ten thousand years. He does it because the one thing he is best at is this alone: locking onto a target in the darkness and never letting go. The Warp of the Eye of Terror is itself the abyss of Chaos, the extreme of darkness, a place where a normal person, once entered, will not last long before corruption or annihilation. But Corax is different—he has lived in darkness his entire life. His Raven Guard have worn black armour for ten thousand years; he himself learned to fight without light in the mines. The Eye of Terror is hell to an ordinary Space Marine. To Corax, it is home.
+
+And this is the coldest stroke in the whole story: a man who entered darkness for the sake of light stayed in darkness too long, and in the end, became part of it. What is Corax now? He is no longer a Primarch. He is a phenomenon, a legend, a shadow that hunts traitors within the domain of Chaos. No one knows if his consciousness is still intact. No one knows if he still feels anything for the Emperor or the Imperium. No one even knows if he is still "choosing" to do this. Perhaps ten thousand years of hunting have worn "choice" away from this soul, leaving only instinct—like a shark that never stops its eternal patrol through the deep sea.
+
+And Lorgar is still locked behind that door. The two men, facing off across the sealed chamber of Sicarus, are the most precise footnote to a ten-thousand-year-old grudge: the god-maker versus the god-slayer, the preacher versus the hunter, faith versus shadow. Whoever breaks first loses the final round of this war. Corax can wait. The first thing he ever learned in the mines was this: those who can wait, win in the end.
