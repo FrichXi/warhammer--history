@@ -1,0 +1,81 @@
+# 06 · Imperial Bureaucracy and Social Structure
+
+> The Imperium is the regime with the broadest borders and the largest population in human history, ruling over a million worlds — but it has no unified political center. Edicts from Terra take decades to arrive. Sector governors rule their own little kingdoms with impunity. The Ecclesiarchy preaches on every world. The Inquisition condemns anyone to death without permission. No one truly rules this empire. It has simply not yet collapsed.
+
+---
+
+## I. The Adeptus Administratum: Ruling the Galaxy with Paper
+
+The **Adeptus Administratum** is the nominal administrative heart of the Imperium. Its headquarters on Terra covers multiple sub-continents of the planetary surface — this is not a figure of speech, but geographic fact. Archive blocks stretch for thousands of kilometers, soaring hundreds of stories, every floor stacked with parchment rolls, wax-sealed dossiers, and iron filing cabinets. Every single Imperial world, every regiment, every trade route, every tithe payment — in theory, there is a corresponding entry somewhere in this ocean of paper. The problem is: no one can establish relationships between one entry and another.
+
+The Administratum's manpower is measured in the billions — scribes, copyists, archivists, statisticians — who work in the same offices for generations. Most low-ranking scribes do one thing their entire lives: copy "Conscription Order No. 18 — Duplicate" from one sheet of parchment to another. They do not ask who the order is being sent to, nor whether the number on it is five hundred or fifty thousand. Their job is to copy, not to understand. Understanding is the business of their superiors — and their superiors are in another building three thousand kilometers away, making decisions whose consequences they will never witness.
+
+Irony reaches its Imperial peak here: an Astropath can transmit a message instantaneously from the edge of the galaxy to Terra through psychic power — and once the message arrives, it is translated into text, stamped, sealed, carried by a courier across five kilometers of corridors to a scribe, who registers it in a ledger, which is pushed into the archive vault, where an archivist three years later finally locates the matching old file and copies the new message alongside it. The most advanced communication technology in existence, allied with the most primitive bureaucracy — parchment, candles, seals, inkwells, paired with psychic transmission capable of tearing through the fabric of reality.
+
+Under this system, a conscription order sent from Terra to the front line takes decades at best. Most commonly, the order has not yet arrived and the front line no longer exists. Or, more often still: the order finally arrives, and the front-line commander has already fought and won the war on his own, and Terra will never know. So the actual governing power of the Imperium does not rest in Terra — it is scattered across thousands of sector governors. The bureaucrats of the Administratum are not unaware of this. They simply lack the capacity to change it — and the motivation.
+
+## II. Planetary Governors and Sector Rule
+
+The Imperium's administrative divisions nest like boxes: Sector → Sub-sector → System → Planet. A Planetary Governor is nominally at the very bottom of this chain, but is in actual fact an absolute dictator on their own world. The governor's power boundaries are spectacularly vague — so long as three conditions are met, the Imperium does not care what the governor does on their planet: deliver the tithe on time, suppress heresy and xenos, and acknowledge the supreme authority of the Emperor.
+
+The governor system has three core problems:
+
+**Hereditary ossification.** Most governor positions pass from father to son, son to grandson, for millennia, and the families have long since forgotten what governance capability even means. A thirty-thousand-year-old gubernatorial dynasty may, in the current generation, have produced a twenty-year-old wastrel as the heir — but his palace guard will press his signet into the documents for him. So long as the paperwork is correct, the Imperium accepts it.
+
+**Institutionalized corruption.** A governor with zero external oversight will, with near-certainty, be corrupted by absolute power: arbitrary taxation, arbitrary conscription, arbitrary executions, arbitrary patronage appointments. The only thing stopping him is his own finite energy. Most governors choose not to govern — living in the palace and enjoying themselves, delegating governance to mid-level bureaucrats who do nothing but engage in internal power struggles.
+
+**Power vacuums.** A governor dies. The succession struggle may trigger a civil war. The speed of the Imperium's response depends on the planet's position in the tithe ledgers — if it's an agri-world nobody cares about, the war may rage two hundred years without anyone knowing. If it's a fortress world, the Inquisition will arrive within three days.
+
+The governance differences between world types are also worth noting. Hive worlds are population trash-heaps — tens or hundreds of billions crammed into megastructures, air recycled through circulators, food consisting of algae-protein from the under-level factories. The governor lives in the hive spire and has never seen the ground. His governing philosophy is simple: keep the hive standing, keep the factories running, keep the conscription quotas met. The Astra Militarum draws vast numbers from here (for the conscription system see *The Astra Militarum* treatise). Agri-worlds are planet-sized farms — no cities, no industry, all land monoculture plantations, farmers performing the most brutal manual labor with hand tools because the Imperium judges that fitting humans with machines costs more than making more humans. Death worlds have an entirely different governance logic — the Imperium's interest is not in economic output but in whether they can produce extreme-environment specialist soldiers.
+
+## III. The Tithe: The Imperium's Circulatory System
+
+The Imperium does not run on currency. It runs on the tithe.
+
+Every planet has a tithe contract specifying the annual tribute of resources and people: X hundred thousand tons of grain, Y tens of thousands of new recruits, Z million tons of ore — plus specialized output, such as Cadia's fortress-world defense forces, and the weaponry and equipment from Mars and the forge worlds (for the independent status of the forge worlds see *The Mechanicus and Technology* treatise).
+
+A Tithe Agent's power is staggering — they can mobilize Imperial Navy escorts, requisition transport fleets, and, when a governor refuses to pay, request Astra Militarum armed enforcement. But their actual work more closely resembles that of a debt collector who can never catch up: they know every planet's quota and know most planets have never paid in full. Some planets overpaid and no one crossed them off the ledger. Some underpaid and no one followed up for three hundred years. Some planets' records were lost in Warp storms — so they vanished from Imperial records, yet physically still exist, the people upon them still alive, still calling themselves Imperial subjects — but the Imperium does not know they exist.
+
+The collected goods and recruits are loaded onto the Imperial Navy's massive transport ships and crawl through the Warp — every jump a gamble, every shipment of living cargo arriving at its destination potentially short a batch. The Astra Militarum's mobilization system runs on these gargantuan supply lines (details in *The Astra Militarum* treatise).
+
+The most essential characteristic of the tithe is this: it does not distinguish between rich and poor, alive and dead. An Ork warband just sacked a world — this year's tithe is still due. A planet lost a third of its population to famine — next year's conscription quota remains unchanged. The Administratum's logic is simple: a contract is a contract; a planet's disaster does not fall within Terra's consideration. If Planet A cannot deliver, extract more from Planet B, or have the Navy replace Planet A's governor with someone who can.
+
+## IV. The Ecclesiarchy: The Conspiracy of Church and State
+
+If you are an Imperial civilian, you will go your entire life without encountering the concept of "news." The Imperium has no news, no newspapers, no broadcasts, no public education. The Administratum does not care whether you can read — literate people are, in fact, more likely to consume heretical texts. Your sole daily source of information is one building: the Ecclesiarchy's church.
+
+The **Ecclesiarchy** worships the Emperor as a god — despite the Emperor having spent his entire life suppressing religion, personally burning down countless temples during the Great Crusade. But after the Emperor was enthroned upon the Golden Throne and could speak no more, the Ecclesiarchy used his silence to complete the most absolute betrayal of him: they turned the man who hated religion into the most widely worshipped god in human history.
+
+The power base of the Ecclesiarchy is simple: it is the sole information channel available to the Imperial commoner. Every planet, every city, every hive level, every military camp has a pulpit. The Cardinal stands upon it every Sabbath and preaches the glory of the Emperor — no philosophy, no logic, only one thing: the Emperor protects humanity with his undying will; xenos and heretics seek to destroy the Emperor's order; you, as a loyal Imperial subject, must hate the xenos, fear the psyker, obey authority, pay your tithe on time, and die for the Imperium. This is not religion — it is a state propaganda machine. The Ecclesiarchy does not need to give your brain information; it only needs to give your soul a direction, so that when you breathe toxic air at the bottom of a hive, you can still believe your suffering has meaning.
+
+During the **Age of Apostasy**, the Ecclesiarch Goge Vandire once seized total control of Imperial power. After his bloody reign ended, the Imperium enacted an iron law: the Ecclesiarchy shall not maintain "men under arms." The wording was deliberate — the Adepta Sororitas are women, and thus are not restricted by the decree. This is why the Battle Sisters are the sole legitimate armed force of the Ecclesiarchy.
+
+The relationship between the Ecclesiarchy and planetary governors is a classic church-state conspiracy: mutual need, mutual wariness. For the governor, the weekly sermon ensures the populace feels indebted to the Imperium before they are even taxed. For the Ecclesiarchy, the governor provides church land and security. But this relationship can rupture at any moment — the Cardinal believes theocratic authority supersedes secular power; the governor believes that on his own planet, he is everything. When it truly breaks, both parties will tacitly choose not to report it — because if the Inquisition arrives, both may be purged.
+
+## V. The Inquisition's Place in the Power Landscape
+
+The **Inquisition** is an independent power operating outside the Imperial administrative system, subject neither to the Administratum, the Ecclesiarchy, the Departmento Munitorum, nor even the High Lords of Terra. The Inquisitor's sole superior is the Inquisition's own supreme conclave.
+
+An Inquisitor carries his rosette for life — the highest identity credential in the Imperium. With this mark he may: command any Imperial citizen to assist in investigation (refusal being grounds for heresy); depose a sector governor and appoint a temporary regent; declare martial law over an entire star system; mobilize a Space Marine Chapter (most Chapters will politely consider rather than obey); and carry out on-the-spot judgment and execution of anyone.
+
+This power has no checks — not because none were designed, but because the designer is gone and the Imperium can find no substitute. The essence of the Inquisitorial system is: to prevent one Inquisitor from turning renegade, allow another Inquisitor to kill him. Conflicts between Inquisitors are the highest-stakes power hedge in the Imperium — both sides legally assemble fleets, requisition troops, and accuse each other of heresy. The final resolution does not look at law; it looks at who kills whom first.
+
+The split between Radicals and Puritans runs deeper than in any Imperial institution. One faction believes Chaos weapons can be used against Chaos; the other believes any contact with Chaos is betrayal. Their conflicts within the conclave have at times escalated to full fleet engagements. The reaction of external Imperial officials is singular — stand far away, don't get dragged in. The Inquisition's true position in Imperial society is not "ruler" but "immune system" — it operates entirely outside the bureaucracy, intervening only when cancer cells appear. But in an empire that is itself riddled with cancer, the immune system may itself become the tumor.
+
+## VI. The Nature of the Entire Machine
+
+The Imperium is not a centralized state, nor can it be called a federation — it is not dignified enough to reach that level. The Imperium is **a decentralized collective collapse that somehow keeps going.**
+
+Terra has no capacity to administer the galaxy — administrative lag is fatal. Sector governors each have their own calculations — hereditary rot, corruption, civil war, secession. The Ecclesiarchy forms a tier unto itself — theocracy and temporal power holding each other hostage. The Inquisition operates outside the system — simultaneously the last line of defense and the greatest variable. The tithe is nominally the Imperium's bloodstream, but the transfusion system is completely clogged — some regions bleeding out, some necrotic, some whose blood flows to no organ at all.
+
+The Imperium continues to function for a single reason: the Astronomican still burns. The Emperor's will is pumped from the Golden Throne into the Warp, and this galaxy-spanning psychic lighthouse allows fleets to navigate, allows grain and soldiers — however inefficiently — to flow between worlds. And sustaining the Astronomican requires a thousand psykers fed into the Golden Throne every day — thirty-six billion souls burned across ten thousand years. This empire sustains its breathing by gnawing on its finest children (for the mechanisms and costs of the psychic system, see *The Psykers* treatise).
+
+At the apex of this machine stand beings belonging to no system at all. The **Adeptus Custodes** are the personal guard of the Emperor — answering to no Departmento Munitorum, no High Lord, no one — tasked solely with guarding the Emperor's person, even though the Emperor has not risen from his Throne since the day he was placed upon it (for the Custodes and Sisters of Silence, see *The Adeptus Custodes and Sisters of Silence* treatise).
+
+The deepest irony of the Imperium is this: it is humanity's mightiest civilization — and the only one in which a single clerical error can destroy a world and no one is held accountable. A scribe beneath Terra miscopies a single line, recording Star System A's tithe onto Star System B's ledger. Star System A is invaded by the Astra Militarum for "tax delinquency" and reduced to ash. Star System B enjoys a hundred years of exemption, free and clear. No one knows. No one cares. In the Imperium, catastrophe is not a malfunction — catastrophe is simply how the system runs.
+
+The Imperium is not being defeated by its enemies. It is being dragged down by itself. But it has not yet fallen. Inside this rust-caked, misaligned, intermittently powered machine are over a million worlds, billions of humans, uncounted soldiers still living. They are not waiting for a better tomorrow — they are just waiting for a today that, like yesterday, has not been destroyed.
+
+---
+
+> The most vast empire beneath the stars, governed by a bundle of parchment and a disc of sealing wax. The most advanced interstellar civilization, held together by the most ancient superstitions. A single pen of the Adeptus Administratum can doom a world — or forget it entirely. What drips from the nib is not ink but blood. And the owner of that pen, three thousand years later, may not yet have turned to the page that bears your name.
