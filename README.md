@@ -2,77 +2,107 @@
   <img src="https://raw.githubusercontent.com/FrichXi/funeralai/main/assets/logo.png" alt="logo" width="200"/>
 </p>
 
-# 战锤史记
+<h1 align="center">战锤史记 · Warhammer: A Chronicle History</h1>
 
-> 以《史记》纪传体例重写战锤（40K + 中古战锤）历史
->
-> 106篇 · 约38万字 · 本纪、世家、列传、表、书五体俱全
+<p align="center">
+  <a href="zh/README_ZH.md"><strong>中文</strong></a> &nbsp;·&nbsp;
+  <a href="en/"><strong>English</strong></a>
+</p>
 
----
+<p align="center">
+  <em>The Warhammer universe (40K + Fantasy), retold in the biographical tradition of Sima Qian's <strong>Records of the Grand Historian</strong></em>
+</p>
 
-## 这是什么
-
-战锤（Warhammer）的官方背景故事分散在三十多年的小说、规则书和游戏设定中，信息量巨大且碎片化。《战锤史记》用中国《史记》的纪传体例重新编排战锤故事——关键人物和势力的故事用清晰的中文单独成篇，像读历史人物传记一样逐步建立对战锤世界的认知。
-
-## 快速开始
-
-先读 `00-综述.md`，它用一篇长的文章帮你理清两个战锤世界的全局和脉络。然后挑你感兴趣的人或势力开始读，每篇独立成章，不需要按顺序。
-
-专有名词首次出现附英文原名，附录里可以查所有术语。40K 和中古战锤是两个完全独立的宇宙，各看各的。
+<p align="center">
+  115 articles &nbsp;·&nbsp; ~400,000 words &nbsp;·&nbsp; Five sections: Annals, Houses, Biographies, Tables, Treatises
+</p>
 
 ---
 
-## 目录
+## What is this?
+
+Warhammer's official lore is scattered across three decades of novels, rulebooks, and game supplements — a mountain of fragmented storytelling. **Warhammer: A Chronicle History** reorganizes it all using a format familiar to Chinese readers but rare in English: the **jìzhuàntǐ (纪传体, annal‑biography style)** invented by Sima Qian in 91 BC for his *Records of the Grand Historian*.
+
+Instead of writing history as a chronological timeline, jìzhuàntǐ tells it through **people** — their origins, their deeds, their fates. Each article is a self‑contained biography of a character or faction. Read one and you've learned a piece of the universe. Read them all, and the whole picture assembles itself.
+
+> *To Western readers: think of this as Plutarch's* Parallel Lives *meets Gibbon's* Decline and Fall*, but for the grim darkness of the 41st Millennium.*
+
+---
+
+## How to read
+
+- **Start** with `00-overview.md` in your language directory — it lays out both universes and how they connect (or don't).
+- **Then** pick any character or faction that interests you. Every article is self‑contained; no reading order required.
+- **40K and Fantasy are completely separate universes.** They share Chaos as a concept, but their stories and timelines are independent. Feel free to skip one entirely.
+
+---
+
+## The Five Sections
+
+Inspired by the five‑part structure of the *Records of the Grand Historian*:
+
+| Section | Chinese | Meaning | 40K | Fantasy |
+|---------|---------|---------|-----|---------|
+| **Annals** | 本纪 | Lives of sovereigns — the figures whose fates shape the age | 19 articles | 5 articles |
+| **Houses** | 世家 | Hereditary powers — the great factions, their origins and rise | 8 articles | 14 articles |
+| **Biographies** | 列传 | Exemplary lives — heroes, villains, and everyone in between | 24 articles | 15 articles |
+| **Tables** | 表 | Chronologies and genealogies — for when you need to look up a date or bloodline | 3 articles | 3 articles |
+| **Treatises** | 书 | Topical monographs — deep dives into the Warp, psykers, magic, technology, and more | 14 articles | 8 articles |
+| **Total** | | | **68** | **45** |
+
+Every article follows a consistent five‑paragraph structure: **Overview** → **Origin** → **Deeds** → **Fate & Present Status** → **Verdict** (a brief historical assessment).
+
+---
+
+## Contents
 
 ```
-战锤史记/
+Warhammer-Chronicle-History/
 │
-├── 00-综述.md                          # 先看这个：世界观 + 历史脉络总览
-├── 战锤太史公说工作流.md                # 这个项目是怎么和AI协作做出来的
+├── README.md                    ← You are here (bilingual entry)
 │
-├── 40K/                                # 战锤40K —— 第41个千年的黑暗科幻史诗
-│   ├── 01-本纪/        19篇             # 帝皇与十八位已知基因原体的传记，加上黎曼·鲁斯共19人。从统一泰拉到荷鲁斯之乱再到万年黑暗时代，每个人的出身、战绩、背叛或牺牲、最终命运都在这里面
-│   ├── 02-世家/        8篇              # 人类帝国、混沌、灵族、兽人、太空死灵、泰伦虫族、钛帝国、机械教——每一篇讲清楚一个势力的起源、核心特征和兴衰
-│   ├── 03-列传/        24篇             # 没当上本纪但同样重要的人物：马卡多、阿巴顿、混沌四冠军、帝国英雄三人组、灰骑士、审判官、雷霆战士的悲剧……
-│   ├── 04-表/          3篇              # 原体世系一览表、黑色远征编年、40K大事年表——想查某个原体编号或某次远征时间，翻这里
-│   └── 05-书/         14篇              # 亚空间、基因原体、灵能、机械教与科技、星界军军事、帝国官僚社会、帝国装备与武器志、禁军与寂静修女、混沌军事、灵族社会与军事、兽人WAAAGH!、太空死灵王朝、泰伦虫巢意志、钛帝国种姓——每个势力或专题的深度解读
+├── zh/                          ← 中文入口
+│   ├── README_ZH.md
+│   ├── 00-综述.md
+│   ├── 40K/
+│   │   ├── 01-本纪/ (19)
+│   │   ├── 02-世家/ (8)
+│   │   ├── 03-列传/ (24)
+│   │   ├── 04-表/   (3)
+│   │   └── 05-书/   (14)
+│   ├── 中古战锤/
+│   │   ├── 01-本纪/ (5)
+│   │   ├── 02-世家/ (14)
+│   │   ├── 03-列传/ (15)
+│   │   ├── 04-表/   (3)
+│   │   └── 05-书/   (8)
+│   └── 附录/
 │
-├── 中古战锤/                            # 中古战锤 —— 旧世界的剑与魔法，直至终焉之时
-│   ├── 01-本纪/        5篇              # 西格玛、纳加什、艾查恩、赛特拉、马雷基斯——这五个人的人生命运就是旧世界历史的骨架
-│   ├── 02-世家/        14篇             # 帝国、巴托尼亚、矮人、三支精灵、混沌、混沌矮人、绿皮、吸血鬼、古墓王、斯卡文、蜥蜴人、木精灵、野兽人——旧世界十五大势力各有千秋
-│   ├── 03-列传/        15篇             # 从精灵双王到矮人屠夫、从吸血鬼阴谋家到斯卡文鼠人先知、从不死忠将到人类大帝——旧世界英雄录
-│   ├── 04-表/          3篇              # 精灵凤凰王世系、吸血鬼五大血族谱系、中古大事年表——谁是第几代凤凰王、谁是谁的血脉，查表最清楚
-│   └── 05-书/          8篇              # 魔法八风、终焉之时、旧世界诸神、亡灵不死体系、斯卡文地下帝国、蜥蜴人大计划、混沌勇士与恶魔军团、矮人工匠与符文魔法——奇幻世界观专题
-│
-└── 附录/
-    ├── 名词对照表.md                    # 所有专有名词的中英对照索引
-    └── 战锤名言录.md                    # 73条经典战锤台词，每一条附出处和语境
+└── en/                          ← English entry
+    ├── 00-overview.md
+    ├── 40k/
+    │   ├── 01-annals/ (19)
+    │   ├── 02-houses/ (8)
+    │   ├── 03-biographies/ (24)
+    │   ├── 04-tables/ (3)
+    │   └── 05-treatises/ (14)
+    ├── warhammer-fantasy/
+    │   ├── 01-annals/ (5)
+    │   ├── 02-houses/ (14)
+    │   ├── 03-biographies/ (15)
+    │   ├── 04-tables/ (3)
+    │   └── 05-treatises/ (8)
+    └── appendix/
 ```
 
 ---
 
-## 统计
+## Why this format?
 
-| 体 | 40K | 中古 | 说明 |
-|----|-----|------|------|
-| 本纪 | 19篇 | 5篇 | 帝王将相，命系天下 |
-| 世家 | 8篇 | 14篇 | 诸侯列国，兴亡有命 |
-| 列传 | 24篇 | 15篇 | 英雄奸雄，各得其所 |
-| 表 | 3篇 | 3篇 | 谱系年表，纵览全局 |
-| 书 | 14篇 | 8篇 | 专题深读，知其所然 |
-| **合计** | **68篇** | **45篇** | **+ 综述、附录 = 115篇** |
+Warhammer's lore, much like ancient Chinese history, is not a single narrative — it's a constellation of lives, wars, and collapses spanning tens of thousands of years. Sima Qian solved this exact problem two millennia ago: **when history is too big for a timeline, tell it through people.** A single primarch's life contains the rise of the Great Crusade, the fall of Horus, and the shape of the galaxy ten thousand years later. Read their story, and you've read the history.
 
 ---
 
-## 体例说明
+## Disclaimer
 
-每篇文章统一为五个段落：**概述**（一两句话讲清楚是谁） → **出身**（怎么来的） → **事迹**（干了什么大事） → **结局/现状**（现在什么状态） → **简短评述**（历史地位）。
-
-不用文言文，自然白话，叙事为主。
-
----
-
-## 声明
-
-本文档基于 Games Workshop 旗下 Warhammer 40,000 和 Warhammer Fantasy 的公开设定素材整理重述，纯属二次创作，非官方出版物。所有权利归 Games Workshop 所有。
-
+This is a fan‑made reorganization and retelling of publicly available Warhammer 40,000 and Warhammer Fantasy lore. It is not an official Games Workshop publication. All rights belong to Games Workshop.
